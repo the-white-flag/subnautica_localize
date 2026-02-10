@@ -1,0 +1,11 @@
+{
+    "SleekBases": "매끄러운 기지",
+    "FixedTextures": "텍스처 수정",
+    "FixedFloors": "바닥 수정",
+    "FixedGlasses": "유리 수정",
+    "FixedLights": "조명 수정",
+    "FixedConstructs": "구조물 수정",
+    "FixedConstructsLights": "구조물 조명 수정",
+    "FixedWaterParks": "수생 생물 사육장 수정",
+    "WhiteFoundations": "하얀 토대"
+}

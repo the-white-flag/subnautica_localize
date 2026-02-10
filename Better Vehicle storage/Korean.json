@@ -1,0 +1,25 @@
+{
+  "StorageModuleMk2": "창고 모듈 Mk.2",
+  "Storage Module Mk2": "창고 모듈 Mk.2",
+  "Ency_StorageModuleMk2": "기존 창고 모듈을 개선하여 총 32칸의 창고를 제공합니다.",
+  "EncyDesc_StorageModuleMk2": "기존 창고 모듈을 개선하여 총 32칸의 창고를 제공합니다.",
+  "Tooltip_StorageModuleMk2": "개선된 창고 모듈로 총 32칸의 창고 제공.",
+
+  "StorageModuleMk3": "창고 모듈 Mk.3",
+  "Storage Module Mk3": "창고 모듈 Mk.3",
+  "Ency_StorageModuleMk3": "기존 창고 모듈을 크게 개선하여 총 48칸의 창고를 제공합니다.",
+  "EncyDesc_StorageModuleMk3": "기존 창고 모듈을 크게 개선하여 총 48칸의 창고를 제공합니다.",
+  "Tooltip_StorageModuleMk3": "개선된 창고 모듈로 총 48칸의 창고 제공.",
+
+  "StorageModuleMk4": "창고 모듈 Mk.4",
+  "Storage Module Mk4": "창고 모듈 Mk.4",
+  "Ency_StorageModuleMk4": "확장된 저장 용량을 제공하는 업그레이드 모듈로 총 64칸의 창고를 확보합니다.",
+  "EncyDesc_StorageModuleMk4": "확장된 저장 용량을 제공하는 업그레이드 모듈로 총 64칸의 창고를 확보합니다.",
+  "Tooltip_StorageModuleMk4": "개선된 창고 모듈로 총 64칸의 창고 제공.",
+
+  "StorageModuleMk5": "창고 모듈 Mk.5",
+  "Storage Module Mk5": "창고 모듈 Mk.5",
+  "Ency_StorageModuleMk5": "최대 확장된 저장 용량을 제공하는 업그레이드 모듈로 총 80칸의 창고를 지원합니다.",
+  "EncyDesc_StorageModuleMk5": "최대 확장된 저장 용량을 제공하는 업그레이드 모듈로 총 80칸의 창고를 지원합니다.",
+  "Tooltip_StorageModuleMk5": "개선된 창고 모듈로 총 80칸의 창고 제공."
+}

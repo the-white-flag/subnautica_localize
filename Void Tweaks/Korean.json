@@ -1,0 +1,59 @@
+{
+  "Creature Spawn Rate" : "생물 생성 속도",
+  "Change how fast creatures spawn (default 20 seconds)" : "생물이 생성되는 속도를 변경합니다 (기본값: 20초)",
+  
+  "Maximum Creature Capacity" : "최대 생물 수용 한도",
+  "Change the limit of how many creatures that can simultaneously be in the void (default 3)" : "공허에 동시에 존재할 수 있는 생물의 최대 수를 설정합니다 (기본값: 3)",
+
+  "Initial Grace Period" : "초기 유예 시간",
+  "The initial time before the first creature spawns (default 3, which corresponds to 30 seconds)" : "첫 번째 생물이 생성되기 전까지의 초기 시간입니다 (기본값: 3, 30초에 해당)",
+
+  "Creature Spawn Distance" : "생물 생성 거리",
+  "The distance at which creatures spawn from you (default 250)" : "플레이어로부터 생물이 생성되는 거리입니다 (기본값: 250m)",
+
+  "Void Creature Size (x)" : "공허 생물 크기 배율 (x)",
+  "Multiplies the size of creatures (default 1)" : "생물의 크기를 배수로 조정합니다 (기본값: 1)",
+
+  "Desired Distance from Player" : "플레이어로부터 유지 거리",
+  "The distance at which creatures will generally try to circle around you" : "생물이 플레이어 주위를 선회하려는 대략적인 거리입니다",
+
+  "Despawn Distance" : "소멸 거리",
+  "The distance at which creatures will get deleted" : "생물이 소멸되는 거리입니다",
+
+  "Attack Interval" : "공격 간격",
+  "The time between attacks (requires 'Make Hostile' in order to work)" : "공격 간의 시간입니다 ('적대적 행동' 설정이 활성화되어야 작동)",
+
+  "Creature Health" : "생물 체력",
+  "How much health creatures have" : "생물의 체력 수치를 설정합니다",
+
+  "Creature Damage" : "생물 피해량",
+  "How much damage creatures will deal" : "생물이 입히는 피해량을 설정합니다",
+
+  "Creature Speed (x)" : "생물 속도 배율 (x)",
+  "Multiplies creature Speed by this amount" : "생물의 이동 속도를 배수로 조정합니다",
+
+  "Creature Cyclops Damage" : "생물의 사이클롭스 피해량",
+  "Some creatures have separate damage values for the cyclops (not all of them though!)" : "일부 생물은 사이클롭스에 대한 별도의 피해량 수치를 가집니다 (모든 생물이 해당되는 것은 아닙니다!)",
+
+  "[- Advanced Options Below -]" : "[- 고급 설정 -]",
+
+  "Clear the Void" : "공허 초기화",
+  "Clears the Void of all creatures" : "공허에 있는 모든 생물을 제거합니다",
+
+  "Retreats when Leaving" : "이탈 시 생물 후퇴",
+  "Makes creatures run away when you leave the void (does not affect ghost leviathans)" : "공허를 벗어나면 생물이 후퇴하게 합니다 (유령 레비아탄에는 영향을 주지 않음)",
+
+  "Make Hostile" : "적대적 행동",
+  "Makes creature Attack you when you Collide with them, useful for making passive creatures Dangerous (won't work on creatures with 0 Damage unless you Override their Damage) If creatures are for some reason not Damaging your Cyclops then this can help" : "생물이 충돌 시 공격하도록 만듭니다. 평화로운 생물을 위협적으로 만들 수 있습니다 (피해량이 0인 경우 '피해량 덮어씌우기'를 설정해야 함). 생물이 사이클롭스를 공격하지 않는 문제를 해결할 수 있습니다.",
+
+  "Override Creature Stats" : "생물 스탯 덮어씌우기",
+  "Overrides the creatures stats with the ones below" : "아래에 지정된 생물 스탯으로 덮어씁니다",
+
+  "Can Attack Cyclops" : "사이클롭스 공격 허용",
+  "Allows creatures to Attack the Cyclops" : "생물이 사이클롭스를 공격할 수 있도록 허용합니다",
+
+  "Void Creature Prefab" : "공허 생물 프리팹",
+  "The type of creature that spawns when entering the void, only choose things that could work, as it might cause issues (default Ghost Leviathan)" : "공허에 진입할 때 생성되는 생물 유형입니다. 기능상의 문제를 피하기 위해 정상적으로 작동하는 생물을 선택하십시오 (기본값: 유령 레비아탄)",
+
+  "Void Tweaks" : "공허 설정 조정"
+}

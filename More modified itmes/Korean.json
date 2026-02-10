@@ -1,0 +1,73 @@
+{
+    "rssuit": "강화 개선형 정수 슈트",
+    "Reinforced Enhanced Water Filtration Suit": "강화 개선형 정수 슈트",
+    "Ency_rssuit": "강화 잠수복과 동일한 보호 기능을 제공하면서 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+    "EncyDesc_rssuit": "강화 잠수복과 동일한 보호 기능을 제공하면서 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+    "Tooltip_rssuit": "강화 잠수복과 동일한 보호 기능을 제공하면서 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+  
+    "ScubaManifold": "스쿠버 매니폴드",
+    "Scuba Manifold": "스쿠버 매니폴드",
+    "Ency_ScubaManifold": "휴대 중인 모든 탱크의 산소 공급을 통합합니다.",
+    "EncyDesc_ScubaManifold": "휴대 중인 모든 탱크의 산소 공급을 통합합니다.",
+    "Tooltip_ScubaManifold": "휴대 중인 모든 탱크의 산소 공급을 통합합니다.",
+  
+    "ugscfins": "울트라 글라이드 충전 오리발",
+    "Ultra Glide Swim Charge Fins": "울트라 글라이드 충전 오리발",
+    "Ency_ugscfins": "울트라 글라이드 오리발과 동일한 속도 증가 효과를 제공하며, 충전 오리발의 장비 충전 기능도 갖추고 있습니다.",
+    "EncyDesc_ugscfins": "울트라 글라이드 오리발과 동일한 속도 증가 효과를 제공하며, 충전 오리발의 장비 충전 기능도 갖추고 있습니다.",
+    "Tooltip_ugscfins": "울트라 글라이드 오리발과 동일한 속도 증가 효과를 제공하며, 충전 오리발의 장비 충전 기능도 갖추고 있습니다.",
+  
+    "lwuhtank": "경량 초대용량 탱크",
+    "Lightweight Ultra High Capacity Tank": "경량 초대용량 탱크",
+    "Ency_lwuhtank": "초대용량 탱크와 동일한 산소량을 보유하면서, 대용량 탱크의 속도 페널티 없음 효과를 갖추고 있습니다.",
+    "EncyDesc_lwuhtank": "초대용량 탱크와 동일한 산소량을 보유하면서, 대용량 탱크의 속도 페널티 없음 효과를 갖추고 있습니다.",
+    "Tooltip_lwuhtank": "초대용량 탱크와 동일한 산소량을 보유하면서, 대용량 탱크의 속도 페널티 없음 효과를 갖추고 있습니다.",
+  
+    "enhancedstillsuit": "개선형 정수 슈트",
+    "Enhanced Water Filtration Suit": "개선형 정수 슈트",
+    "Ency_enhancedstillsuit": "일반 정수 슈트와 동일하지만, 회수된 물을 자동으로 체내에 주입합니다.",
+    "EncyDesc_enhancedstillsuit": "일반 정수 슈트와 동일하지만, 회수된 물을 자동으로 체내에 주입합니다.",
+    "Tooltip_enhancedstillsuit": "일반 정수 슈트와 동일하지만, 회수된 물을 자동으로 체내에 주입합니다.",
+  
+    "rssuitmk2": "강화 개선형 정수 슈트 Mk2",
+    "Reinforced Enhanced Water Filtration Suit Mk2": "강화 개선형 정수 슈트 Mk2",
+    "Ency_rssuitmk2": "수심 1300m까지 보호하고 75°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+    "EncyDesc_rssuitmk2": "수심 1300m까지 보호하고 75°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+    "Tooltip_rssuitmk2": "수심 1300m까지 보호하고 75°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+  
+    "rssuitmk3": "강화 개선형 정수 슈트 Mk3",
+    "Reinforced Enhanced Water Filtration Suit Mk3": "강화 개선형 정수 슈트 Mk3",
+    "Ency_rssuitmk3": "모든 수심에서 보호하고 90°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+    "EncyDesc_rssuitmk3": "모든 수심에서 보호하고 90°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+    "Tooltip_rssuitmk3": "모든 수심에서 보호하고 90°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능을 포함합니다.",
+  
+    "lwuhcptank": "경량 초대용량 광합성 탱크",
+    "Lightweight Ultra High Capacity Photosynthesis Tank": "경량 초대용량 광합성 탱크",
+    "Ency_lwuhcptank": "경량 초대용량 탱크의 모든 장점과 광합성 탱크의 4배 산소 생산 기능을 갖추고 있습니다.",
+    "EncyDesc_lwuhcptank": "경량 초대용량 탱크의 모든 장점과 광합성 탱크의 4배 산소 생산 기능을 갖추고 있습니다.",
+    "Tooltip_lwuhcptank": "경량 초대용량 탱크의 모든 장점과 광합성 탱크의 4배 산소 생산 기능을 갖추고 있습니다.",
+  
+    "lwuhcctank": "경량 초대용량 화학합성 탱크",
+    "Lightweight Ultra High Capacity Chemosynthesis Tank": "경량 초대용량 화학합성 탱크",
+    "Ency_lwuhcctank": "경량 초대용량 탱크의 모든 장점과 화학합성 탱크의 4배 산소 생산 기능을 갖추고 있습니다.",
+    "EncyDesc_lwuhcctank": "경량 초대용량 탱크의 모든 장점과 화학합성 탱크의 4배 산소 생산 기능을 갖추고 있습니다.",
+    "Tooltip_lwuhcctank": "경량 초대용량 탱크의 모든 장점과 화학합성 탱크의 4배 산소 생산 기능을 갖추고 있습니다.",
+  
+    "stabilizedenhancedstillsuit": "안정화 개선형 정수 슈트",
+    "Stabilized Enhanced Water Filtration Suit": "안정화 개선형 정수 슈트",
+    "Ency_stabilizedenhancedstillsuit": "개선형 정수 슈트에 텔레포트 기술에 의한 공간 이동을 방지하는 기능이 추가되었습니다.",
+    "EncyDesc_stabilizedenhancedstillsuit": "개선형 정수 슈트에 텔레포트 기술에 의한 공간 이동을 방지하는 기능이 추가되었습니다.",
+    "Tooltip_stabilizedenhancedstillsuit": "개선형 정수 슈트에 텔레포트 기술에 의한 공간 이동을 방지하는 기능이 추가되었습니다.",
+  
+    "stabilizedenhancedstillsuitmk2": "안정화 개선형 정수 슈트 Mk2",
+    "Stabilized Enhanced Water Filtration Suit Mk2": "안정화 개선형 정수 슈트 Mk2",
+    "Ency_stabilizedenhancedstillsuitmk2": "수심 1300m까지 보호하고 75°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능과 텔레포트 기술에 의한 공간 이동 방지 기능을 포함합니다.",
+    "EncyDesc_stabilizedenhancedstillsuitmk2": "수심 1300m까지 보호하고 75°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능과 텔레포트 기술에 의한 공간 이동 방지 기능을 포함합니다.",
+    "Tooltip_stabilizedenhancedstillsuitmk2": "수심 1300m까지 보호하고 75°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능과 텔레포트 기술에 의한 공간 이동 방지 기능을 포함합니다.",
+  
+    "stabilizedenhancedstillsuitmk3": "안정화 개선형 정수 슈트 Mk3",
+    "Stabilized Enhanced Water Filtration Suit Mk3": "안정화 개선형 정수 슈트 Mk3",
+    "Ency_stabilizedenhancedstillsuitmk3": "모든 수심에서 보호하고 90°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능과 텔레포트 기술에 의한 공간 이동 방지 기능을 포함합니다.",
+    "EncyDesc_stabilizedenhancedstillsuitmk3": "모든 수심에서 보호하고 90°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능과 텔레포트 기술에 의한 공간 이동 방지 기능을 포함합니다.",
+    "Tooltip_stabilizedenhancedstillsuitmk3": "모든 수심에서 보호하고 90°C까지 내열 보호를 제공하는 업그레이드된 잠수복으로, 개선형 정수 슈트의 수분 재활용 기능과 텔레포트 기술에 의한 공간 이동 방지 기능을 포함합니다."
+}

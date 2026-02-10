@@ -1,0 +1,37 @@
+{
+    "ElectricalEnhancement": "전기 모듈",
+    "Electrical module": "전기 모듈",
+    "Tooltip_ElectricalEnhancement": "고급 전조등 및 배터리 교환 기능을 제공하는 차량 강화 시스템 모듈입니다.",
+    "Ency_ElectricalEnhancement": "고급 전조등 및 배터리 교환 기능을 제공하는 차량 강화 시스템 모듈입니다.",
+    "EncyDesc_ElectricalEnhancement": "고급 전조등 및 배터리 교환 기능을 제공하는 차량 강화 시스템 모듈입니다.",
+
+    "ElectronicEnhancement": "전자 모듈",
+    "Electronic module": "전자 모듈",
+    "Tooltip_ElectronicEnhancement": "크루즈 컨트롤, 터보 및 그린 엔진 모드를 제공하는 차량 강화 시스템 모듈입니다.",
+    "Ency_ElectronicEnhancement": "크루즈 컨트롤, 터보 및 그린 엔진 모드를 제공하는 차량 강화 시스템 모듈입니다.",
+    "EncyDesc_ElectronicEnhancement": "크루즈 컨트롤, 터보 및 그린 엔진 모드를 제공하는 차량 강화 시스템 모듈입니다.",
+    
+    "MechanicalEnhancement": "기계 모듈",
+    "Mechanical module": "기계 모듈",
+    "Tooltip_MechanicalEnhancement": "고급 기어박스 및 속도계를 제공하는 차량 강화 시스템 모듈입니다.",
+    "Ency_MechanicalEnhancement": "고급 기어박스 및 속도계를 제공하는 차량 강화 시스템 모듈입니다.",
+    "EncyDesc_MechanicalEnhancement": "고급 기어박스 및 속도계를 제공하는 차량 강화 시스템 모듈입니다.",
+    
+    "SeamothEnhancementSystemModule": "시모스 강화 시스템",
+    "Seamoth enhancement system": "시모스 강화 시스템",
+    "Tooltip_SeamothEnhancementSystemModule": "고급 전조등 및 배터리 교환, 크루즈 컨트롤 및 터보/그린 엔진 모드, 고급 기어박스 및 속도계를 추가하고 체력, 전력, 온도 디스플레이를 향상시킵니다.",
+    "Ency_SeamothEnhancementSystemModule": "고급 전조등 및 배터리 교환, 크루즈 컨트롤 및 터보/그린 엔진 모드, 고급 기어박스 및 속도계를 추가하고 체력, 전력, 온도 디스플레이를 향상시킵니다.",
+    "EncyDesc_SeamothEnhancementSystemModule": "고급 전조등 및 배터리 교환, 크루즈 컨트롤 및 터보/그린 엔진 모드, 고급 기어박스 및 속도계를 추가하고 체력, 전력, 온도 디스플레이를 향상시킵니다.",
+    
+    "SeamothLink": "시모스 링크",
+    "Seamoth Link": "시모스 링크",
+    "Tooltip_SeamothLink": "HUD와 시모스 간 연결을 활성화하는 차량 강화 시스템 모듈입니다.",
+    "Ency_SeamothLink": "HUD와 시모스 간 연결을 활성화하는 차량 강화 시스템 모듈입니다.",
+    "EncyDesc_SeamothLink": "HUD와 시모스 간 연결을 활성화하는 차량 강화 시스템 모듈입니다.",
+    
+    "SafetyModule": "시모스 안전 모듈",
+    "Seamoth safety module": "시모스 안전 모듈",
+    "Tooltip_SafetyModule": "비상 세류 충전기, 충돌 시 크루즈 컨트롤 자동 해제, 시모스-플레이어 충돌 방지 하차 기능을 제공하는 차량 강화 시스템 모듈입니다.",
+    "Ency_SafetyModule": "비상 세류 충전기, 충돌 시 크루즈 컨트롤 자동 해제, 시모스-플레이어 충돌 방지 하차 기능을 제공하는 차량 강화 시스템 모듈입니다.",
+    "EncyDesc_SafetyModule": "비상 세류 충전기, 충돌 시 크루즈 컨트롤 자동 해제, 시모스-플레이어 충돌 방지 하차 기능을 제공하는 차량 강화 시스템 모듈입니다."
+  }

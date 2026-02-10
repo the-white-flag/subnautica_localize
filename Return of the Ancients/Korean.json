@@ -1,0 +1,16 @@
+{
+    "---The Return of the Ancients Comment---": "해당 모드는 이미 번역 작업이 되어있으나, 설정창이 안되어있어서 추가함",     
+    "Override main menu": "메인 메뉴 덮어쓰기",
+    "Whether to use the Return of the Ancients main menu effects. Restart required.": 
+    "Return of the Ancients 메인 메뉴 효과를 사용할지 여부를 설정합니다. 적용을 위해 재시작이 필요합니다.",
+
+    "Enable Halloween mode": "핼러윈 모드 활성화",
+    "Converts the Gargantuan Leviathan adult into a spooky halloween version. Requires restart.": 
+    "가르간투안 레비아탄 성체를 핼러윈 테마로 변경합니다. 적용을 위해 재시작이 필요합니다.",
+    
+    "Roar screen shake intensity" : "포효 시 화면 흔들림 강도",
+    "The intensity of the shaking effect created by the Gargantuan Adult's roar." : "가르간투안 성체의 포효로 인해 발생하는 화면 흔들림의 강도입니다.",
+
+    "Body collisions (Adult Gargantuan)": "가르간투안 성체 충돌 판정",
+    "If enabled, the Gargantuan Leviathan Adult will have collisions on its body. Also controls the currents that push you away from these colliders. Requires restart.": "활성화 시, 가르간투안 레비아탄 성체의 몸체에 충돌 판정이 적용됩니다. 또한 충돌체에 가까이 접근 시 밀어내는 물살 효과도 함께 작동합니다. 적용을 위해 재시작이 필요합니다."
+}
