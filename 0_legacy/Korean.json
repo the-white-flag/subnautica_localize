@@ -590,20 +590,6 @@
   "EncyDesc_PrawnSuitSpeedModule" : "PRAWN 슈트의 보행 메커니즘을 오버드라이브 상태로 전환합니다. 여러 모듈을 동시에 장착할 수 있습니다.",
   "Tooltip_PrawnSuitSpeedModule" : "PRAWN 슈트의 보행 메커니즘을 오버드라이브 상태로 전환합니다. 여러 모듈을 동시에 장착할 수 있습니다.",
 
-  "GargantuanJuvenile" : "가르간투안 아성체",
-  "English" : "영문",
-  "Ency_GargantuanJuvenile" : "가르간투안 아성체 개체",
-  "EncyDesc_GargantuanJuvenile" : "가르간투안 아성체 개체입니다.",
-  "Tooltip_GargantuanJuvenile" : "가르간투안 아성체 개체입니다.",
-
-  "GargantuanVoid" : "가르간투안 공허",
-
-  "English": "영어",
-
-  "Ency_GargantuanVoid": "가르간투안 성체",
-  "EncyDesc_GargantuanVoid": "가르간투안 성체 생물 데이터입니다.",
-  "Tooltip_GargantuanVoid": "가르간투안 성체입니다.",
-
   "GrapplingArmUpgradeModule": "PRAWN 슈트 갈고리 팔 업그레이드",
   "Prawn suit upgraded grappling arm": "PRAWN 슈트 갈고리 팔 업그레이드",
   "Ency_GrapplingArmUpgradeModule": "PRAWN 슈트의 갈고리 팔 성능을 향상시키는 업그레이드 모듈입니다.",
@@ -895,3 +881,4 @@
   "Attitude Indicator Z Position": "고도 계기판 Z좌표 위치",
   "Where (front-to-back) does the instrument appear?": "계기판을 (전-후) 어떻게 표시합니까?",
 }
+
