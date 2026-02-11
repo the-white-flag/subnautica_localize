@@ -2,19 +2,19 @@
   "ECCLibrary": "ECC 라이브러리",
   "ExampleCreature" : "예시 생물",
   "Example Creature" : "예시 생물",
-  "Ency_ExampleCreature" : "기본적인 먹잇감 생물의 예시입니다.",
+  "Ency_ExampleCreature" : "예시 생물",
   "EncyDesc_ExampleCreature" : "기본적인 먹잇감 생물의 예시입니다.",
   "Tooltip_ExampleCreature" : "기본적인 먹잇감 생물의 예시입니다.",
 
   "ExampleLeviathan" : "예시 레비아탄",
   "Example Leviathan" : "예시 레비아탄",
-  "Ency_ExampleLeviathan" : "레비아탄 생물의 예시입니다.",
+  "Ency_ExampleLeviathan" : "예시 레비아탄",
   "EncyDesc_ExampleLeviathan" : "레비아탄 생물의 예시입니다.",
   "Tooltip_ExampleLeviathan" : "레비아탄 생물의 예시입니다.",
 
   "ExampleShark" : "예시 상어",
   "Example Shark" : "예시 상어",
-  "Ency_ExampleShark" : "상어형 생물의 예시입니다.",
+  "Ency_ExampleShark" : "예시 상어",
   "EncyDesc_ExampleShark" : "상어형 생물의 예시입니다.",
   "Tooltip_ExampleShark" : "상어형 생물의 예시입니다."
 }

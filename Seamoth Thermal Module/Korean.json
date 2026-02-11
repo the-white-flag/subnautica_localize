@@ -1,7 +1,7 @@
 {
     "SeamothThermalModule": "시모스 열반응 충전기",
     "Seamoth thermal reactor": "시모스 열반응 충전기",
-    "Ency_SeamothThermalModule": "고온 지역에서 시모스의 파워셀을 자동으로 충전합니다. 중복되지 않습니다.",
+    "Ency_SeamothThermalModule": "시모스 열반응 충전기",
     "EncyDesc_SeamothThermalModule": "고온 지역에서 시모스의 파워셀을 자동으로 충전합니다. 중복되지 않습니다.",
     "Tooltip_SeamothThermalModule": "고온 지역에서 시모스의 파워셀을 자동으로 충전합니다. 중복되지 않습니다"  
 }

@@ -1,25 +1,25 @@
 {
   "SpeedModule": "속도 향상 모듈",
   "Speed Boost Module": "속도 향상 모듈",
-  "Ency_SpeedModule": "소형 탑승물 엔진의 출력을 증폭시켜 더 높은 속도를 제공합니다. 에너지 소비량이 증가합니다.",
+  "Ency_SpeedModule": "속도 향상 모듈",
   "EncyDesc_SpeedModule": "소형 탑승물 엔진의 출력을 증폭시켜 더 높은 속도를 제공합니다. 에너지 소비량이 증가합니다.",
   "Tooltip_SpeedModule": "소형 탑승물 엔진의 출력을 증폭시켜 더 높은 속도를 제공합니다. 에너지 소비량이 증가합니다.",
 
   "SpeedModuleMK2": "속도 향상 모듈 Mk.2",
   "Speed Boost Module MK2": "속도 향상 모듈 Mk.2",
-  "Ency_SpeedModuleMK2": "2단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다.",
+  "Ency_SpeedModuleMK2": "속도 향상 모듈 Mk.2",
   "EncyDesc_SpeedModuleMK2": "2단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다.",
   "Tooltip_SpeedModuleMK2": "2단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다.",
 
   "SpeedModuleMK3": "속도 향상 모듈 Mk.3",
   "Speed Boost Module MK3": "속도 향상 모듈 Mk.3",
-  "Ency_SpeedModuleMK3": "3단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다.",
+  "Ency_SpeedModuleMK3": "속도 향상 모듈 Mk.3",
   "EncyDesc_SpeedModuleMK3": "3단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다.",
   "Tooltip_SpeedModuleMK3": "3단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다.",
 
   "SpeedModuleMK4": "속도 향상 모듈 Mk.4",
   "Speed Boost Module MK4": "속도 향상 모듈 Mk.4",
-  "Ency_SpeedModuleMK4": "4단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다.",
+  "Ency_SpeedModuleMK4": "속도 향상 모듈 Mk.4",
   "EncyDesc_SpeedModuleMK4": "4단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다.",
   "Tooltip_SpeedModuleMK4": "4단계 속도 향상을 제공하며, 에너지 효율 저하는 1단계 수준으로 유지됩니다."
 }
