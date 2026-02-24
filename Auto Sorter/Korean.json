@@ -1,27 +1,27 @@
 {
-    "Autosorter": "자동 분류 배분기",
-    "Autosort Distributor": "자동 분류 배분기",
-    "Tooltip_Autosorter": "연결된 자동 분류 수납함으로 아이템을 자동 전송하는 벽걸이형 스마트 보관함입니다.",
-    "Ency_Autosorter": "자동 분류 배분기",
-    "EncyDesc_Autosorter": "연결된 자동 분류 수납함으로 아이템을 자동 전송하는 벽걸이형 스마트 보관함입니다.",
+    "Autosorter": "자동 분류 보관함",
+    "Autosort Distributor": "자동 보관함",
+    "Tooltip_Autosorter": "연결된 자동 분류 보관함으로 아이템을 자동 전송하는 벽걸이형 분류 장치입니다.",
+    "Ency_Autosorter": "자동 분류기",
+    "EncyDesc_Autosorter": "연결된 자동 분류 보관함으로 아이템을 자동 전송하는 벽걸이형 분류 장치입니다.",
     
-    "AutosortTarget": "자동 분류 수납함",
-    "Autosort Receptacle": "자동 분류 수납함",
-    "Tooltip_AutosortTarget": "자동 분류 배분기에 연결되어 분류된 아이템을 수납하는 벽걸이 보관함입니다.",
-    "Ency_AutosortTarget": "자동 분류 수납함",
-    "EncyDesc_AutosortTarget": "자동 분류 배분기에 연결되어 분류된 아이템을 수납하는 벽걸이 보관함입니다.",
+    "AutosortTarget": "자동 분류 보관함",
+    "Autosort Receptacle": "자동 분류 보관함",
+    "Tooltip_AutosortTarget": "자동 분류기에 연결되어 분류된 아이템을 보관하는 벽걸이 보관함입니다.",
+    "Ency_AutosortTarget": "자동 분류 보관함",
+    "EncyDesc_AutosortTarget": "자동 분류기에 연결되어 분류된 아이템을 보관하는 벽걸이 보관함입니다.",
     
     "AutosortUnload": "자동 분류 차량 하역기",
     "Autosort Vehicle Unloader": "자동 분류 차량 하역기",
-    "Tooltip_AutosortUnload": "자동 분류 수납함과 동일하게 작동하며, 도킹된 차량의 아이템도 자동으로 하역합니다!",
+    "Tooltip_AutosortUnload": "자동 분류기와 연동되며, 도킹된 차량의 아이템도 자동으로 하역합니다!",
     "Ency_AutosortUnload": "자동 분류 차량 하역기",
-    "EncyDesc_AutosortUnload": "자동 분류 수납함과 동일하게 작동하며, 도킹된 차량의 아이템도 자동으로 하역합니다!",
+    "EncyDesc_AutosortUnload": "자동 분류기와 연동되며, 도킹된 차량의 아이템도 자동으로 하역합니다!",
  
-    "AutosortTargetStanding": "대형 자동 분류 수납함",
-    "Standing Autosort Receptacle": "대형 자동 분류 수납함",
-    "Tooltip_AutosortTargetStanding": "자동 분류 배분기에 연결되어 분류된 아이템을 수납하는 대형 보관함입니다.",
-    "Ency_AutosortTargetStanding": "대형 자동 분류 수납함",
-    "EncyDesc_AutosortTargetStanding": "자동 분류 배분기에 연결되어 분류된 아이템을 수납하는 대형 보관함입니다.",
+    "AutosortTargetStanding": "대형 자동 분류 보관함",
+    "Standing Autosort Receptacle": "대형 자동 분류 보관함",
+    "Tooltip_AutosortTargetStanding": "자동 분류기에 연결되어 분류된 아이템을 보관하는 대형 보관함입니다.",
+    "Ency_AutosortTargetStanding": "대형 자동 분류 보관함",
+    "EncyDesc_AutosortTargetStanding": "자동 분류기에 연결되어 분류된 아이템을 보관하는 대형 보관함입니다.",
 
     "Autosorter width size": "자동 분류기 가로 크기",
     "The width of the inventory for the autosorter": "자동 분류기의 인벤토리 가로 크기를 설정합니다.",
@@ -29,29 +29,29 @@
     "Autosorter height size": "자동 분류기 세로 크기",
     "The height of the inventory for the autosorter": "자동 분류기의 인벤토리 세로 크기를 설정합니다.",
 
-    "Receptacle Config": "정리 수납함 설정",
-    "Receptacle width size": "수납함 가로 크기",
-    "The width of the inventory for the autosort receptacle": "자동 정리 수납함의 인벤토리 가로 크기를 설정합니다.",
+    "Receptacle Config": "자동 분류 보관함 설정",
+    "Receptacle width size": "자동 분류 보관함 가로 크기",
+    "The width of the inventory for the autosort receptacle": "자동 분류 보관함의 인벤토리 가로 크기를 설정합니다.",
 
-    "Receptacle height size": "수납함 세로 크기",
-    "The height of the inventory for the autosort receptacle": "자동 정리 수납함의 인벤토리 세로 크기를 설정합니다.",
+    "Receptacle height size": "자동 분류 보관함 세로 크기",
+    "The height of the inventory for the autosort receptacle": "자동 분류 보관함의 인벤토리 세로 크기를 설정합니다.",
 
-    "Standing Receptacle Config": "입식 수납함 설정",
-    "Standing receptacle width size": "입식 수납함 가로 크기",
-    "The width of the inventory for the standing autosort receptacle": "입식 자동 정리 수납함의 인벤토리 가로 크기를 설정합니다.",
+    "Standing Receptacle Config": "대형 보관함 설정",
+    "Standing receptacle width size": "대형 보관함 가로 크기",
+    "The width of the inventory for the standing autosort receptacle": "대형 보관함의 인벤토리 가로 크기를 설정합니다.",
 
-    "Standing receptacle height size": "입식 수납함 세로 크기",
-    "The height of the inventory for the standing autosort receptacle": "입식 자동 정리 수납함의 인벤토리 세로 크기를 설정합니다.",
+    "Standing receptacle height size": "대형 보관함 세로 크기",
+    "The height of the inventory for the standing autosort receptacle": "대형 보관함의 인벤토리 세로 크기를 설정합니다.",
 
     "Sort Interval": "정렬 간격",
     "How long to wait in-between sorting each item": "아이템 정렬 간 대기 시간입니다.",
 
     "Update Intervals Config": "업데이트 간격 설정",
     "Wait time for Update Presents": "업데이트 대기 시간",
-    "The time set to wait until update presents of docked vehicle": "도킹된 탑승물의 업데이트가 적용되기까지 대기하는 시간을 설정합니다.",
+    "The time set to wait until update presents of docked vehicle": "도킹된 탑승물 인벤토리 갱신 대기 시간을 설정합니다.",
 
     "Range Limit Config": "범위 제한 설정",
-    "The Limit to the Range for the Unsorter": "자동 분류 해제기의 최대 작동 범위",
+    "The Limit to the Range for the Unsorter": "자동 분류기의 최대 작동 범위",
     "change the number to increase or decrease the range limit": "숫자를 변경하여 범위 제한을 늘리거나 줄일 수 있습니다.",
 
     
@@ -67,9 +67,9 @@
     "EncyDesc_ShowLog": "디버그 로그를 표시할지 여부를 전환합니다.",
     "Tooltip_ShowLog": "디버그 로그를 표시할지 여부를 전환합니다.",
 
-    "LasyPlayer": "간편 모드",
+    "LasyPlayer": "편의 모드",
     "All Lockers Unlocked At Start": "시작 시 모든 보관함 해금",
-    "Ency_LasyPlayer": "간편 모드",
+    "Ency_LasyPlayer": "편의 모드",
     "EncyDesc_LasyPlayer": "시작할 때 모든 보관함을 해금할지, 아니면 기술 획득으로 해금할지 선택합니다.",
     "Tooltip_LasyPlayer": "시작할 때 모든 보관함을 해금할지, 아니면 기술 획득으로 해금할지 선택합니다.",
 
