@@ -1,0 +1,215 @@
+﻿{
+	//제작기
+	"CustomFoodFabricator": "피퍼 셰프의 제작기",
+	"Tooltip_CustomFoodFabricator": "피퍼 셰프가 당신이 맛보고 즐길 수 있는 맞춤 요리들을 다양하게 준비해두었습니다.",
+	
+	//제작기 탭 이름
+	"CustomFoodFabricatorMenu_Cakes": "케이크",
+	"CustomFoodFabricatorMenu_Ingredients": "식재료",
+	"CustomFoodFabricatorMenu_Drinks": "음료",
+	"CustomFoodFabricatorMenu_MoreIngredients": "추가 식재료",
+	"CustomFoodFabricatorMenu_Rollerdiner": "패스트푸드, 경양식",
+	"CustomFoodFabricatorMenu_Eltaco": "멕시코 요리",
+	"CustomFoodFabricatorMenu_ELJuice": "주스",
+	"CustomFoodFabricatorMenu_Baka": "일식",
+	"CustomFoodFabricatorMenu_Yum": "디저트",
+	
+	//아이템 및 툴팁
+	"vwater": "채식주의자용 물",
+	"Tooltip_vwater": "미역덩굴 씨앗 조각들로 만든 채식주의자용 물입니다.",
+	
+	"Soy": "대두",
+	"Tooltip_Soy": "동아시아가 원산지인 콩과 식물로, 식용 가능한 콩을 얻기 위해 널리 재배되며 용도가 매우 다양합니다.",
+	
+	"Tofu": "두부",
+	"Tooltip_Tofu": "두유를 응고시켜 만든 커드를 다양한 경도의 흰색 블록 형태로 압착한 음식입니다.",
+	
+	"SoyMilk": "두유",
+	"Tooltip_SoyMilk": "콩을 불리고 갈아서 끓인 후 찌꺼기를 걸러내 만든 식물성 음료입니다. 기름, 물, 단백질이 안정적으로 혼합된 유화액입니다.",
+	
+	"Flour": "밀가루",
+	"Tooltip_Flour": "말린 미역덩굴 조각에서 추출한 가루입니다.",
+	
+	"Yeast": "효모",
+	"Tooltip_Yeast": "사카로미세스 세레비시아라고 불리는 단세포 생물로, 활성화를 위해 먹이가 필요합니다.",
+	
+	"Sugar": "설탕",
+	"Tooltip_Sugar": "얼룩멜론에서 추출한 당분입니다.",
+	
+	"Spice": "향신료",
+	"Tooltip_Spice": "미역덩굴 씨앗에서 추출한 풍미 증진제입니다.",
+	
+	"Dough": "반죽",
+	"Tooltip_Dough": "밀가루, 물, 효모를 섞어 만든 반죽입니다.",
+	
+	"Seaweed": "김",
+	"Tooltip_Seaweed": "미역덩굴 잎을 소금에 절여 말렸습니다.",
+	
+	"Bacon": "베이컨",
+	"Tooltip_Bacon": "물고기로 만든 베이컨이 이렇게 맛있을 줄 누가 알았겠어요?",
+	
+	"CoffeeBean": "커피 원두",
+	"Tooltip_CoffeeBean": "커피를 만들기 위해 미역덩굴 씨앗에서 추출한 원두입니다.",
+	
+	"Tortillas": "또띠아",
+	"Tooltip_Tortillas": "효모를 넣지 않은 반죽으로 만든 또띠아입니다.",
+	
+	"Potato": "감자",
+	"Tooltip_Potato": "삶거나 으깨거나 스튜에 넣어 드세요.",
+	
+	"Avocado": "아보카도",
+	"Tooltip_Avocado": "거친 껍질과 커다란 씨앗이 특징인, 밝은 녹색의 과일입니다.",
+	
+	"Bicarbonate": "베이킹 소다",
+	"Tooltip_Bicarbonate": "물의 산성 성분과 반응하여 이산화탄소를 발생시킵니다.",
+	
+	"Bread": "빵",
+	"Tooltip_Bread": "밀가루, 물, 효모를 섞어 오븐에서 갓 구워낸 빵입니다.",
+	
+	"tomatoes": "토마토",
+	"Tooltip_tomatoes": "흔히 토마토로 알려진 솔라눔 리코페르시쿰의 식용 열매입니다.",
+	
+	"Vinegar": "식초",
+	"Tooltip_Vinegar": "2단계 발효 과정을 통해 만들어진 아세트산과 물의 화합물입니다.",
+	
+	"ketchup": "케첩",
+	"Tooltip_ketchup": "새콤달콤한 맛을 내는, 테이블 위의 소스입니다.",
+	
+	"Hops": "홉",
+	"Tooltip_Hops": "맥주 양조의 핵심 재료입니다. 연녹색 꽃잎 속에 풍미를 더해주는 성분이 포함되어 있습니다.",
+	
+	"Toast": "토스트",
+	"Tooltip_Toast": "구운 빵입니다.",
+	
+	"Milk": "우유",
+	"Tooltip_Milk": "제작기는 거의 모든 것을 만들 수 있습니다. 우유라고 안 될 거 있나요?",
+	
+	"Rice": "쌀",
+	"Tooltip_Rice": "미역덩굴에서 추출한 곡물입니다.",
+	
+	"Chocolate": "초콜릿",
+	"Tooltip_Chocolate": "미역덩굴 씨앗의 알맹이를 볶아서 갈아냈습니다.",
+	
+	"Drpeeper": "닥터 피퍼",
+	"Tooltip_Drpeeper": "달콤하고 톡 쏘는 맛이 특징인 탄산음료입니다.",
+	
+	"CocaCoral": "코카 코랄",
+	"Tooltip_CocaCoral": "달콤하고 톡 쏘는 맛이 특징인 탄산음료입니다.",
+	
+	"StalkerSprite": "스토커 스프라이트",
+	"Tooltip_StalkerSprite": "달콤하고 톡 쏘는 맛이 특징인 탄산음료입니다.",
+	
+	"ChiliDog": "칠리 도그",
+	"Tooltip_ChiliDog": "칠리와 비슷하게 생긴 식재료를 얹어 만든 핫도그입니다.",
+	
+	"PeeperBurger": "피퍼 버거",
+	"Tooltip_PeeperBurger": "피퍼 살 패티 버거입니다.",
+	
+	"tacos": "타코",
+	"Tooltip_tacos": "길거리에서 파는 타코입니다. 피퍼 살을 곁들였습니다.",
+	
+	"frenchfries": "감자튀김",
+	"Tooltip_frenchfries": "감자를 썰어 튀겨낸 요리입니다.",
+	
+	"Pancakes": "팬케이크",
+	"Tooltip_Pancakes": "전분 반죽을 얇고 둥글게 구워낸 납작한 케이크입니다.",
+	
+	"BBQWings": "BBQ 윙",
+	"Tooltip_BBQWings": "피퍼 살에 BBQ 소스를 곁들여 만든 윙 요리입니다.",
+	
+	"breakfastplate": "아침 식사 세트",
+	"Tooltip_breakfastplate": "달걀 2개, 베이컨, 토스트, 소시지가 담긴 접시입니다.",
+	
+	"BulboTreeJuice": "알뿌리나무 주스",
+	"Tooltip_BulboTreeJuice": "알뿌리나무 표본과 작은 얼룩멜론, 설탕을 섞어 만든 주스입니다.",
+	
+	"LanternFruitJuice": "초롱열매 주스",
+	"Tooltip_LanternFruitJuice": "초롱열매와 물, 설탕을 섞어 만든 주스입니다.",
+	
+	"melondrink": "얼룩멜론 주스",
+	"Tooltip_melondrink": "얼룩멜론과 물, 설탕을 섞어 만든 주스입니다.",
+	
+	"CreepvineJuice": "미역덩굴 주스",
+	"Tooltip_CreepvineJuice": "미역덩굴과 물, 설탕을 섞어 만든 주스입니다.",
+	
+	"GelSackJuice": "젤주머니 주스",
+	"Tooltip_GelSackJuice": "젤주머니와 물, 설탕을 섞어 만든 주스입니다.",
+	
+	"AcidJuice": "산성버섯 주스",
+	"Tooltip_AcidJuice": "산성버섯과 물, 설탕을 섞어 만든 주스입니다.",
+	
+	"MingPlantJuice": "명풀 주스",
+	"Tooltip_MingPlantJuice": "명풀과 물, 설탕을 섞어 만든 주스입니다.",
+	
+	"TigerPlantJuice": "호랑이풀 주스",
+	"Tooltip_TigerPlantJuice": "호랑이풀과 물, 설탕을 섞어 만든 주스입니다.",
+	
+	"MelonCake": "얼룩멜론 케이크",
+	"Tooltip_MelonCake": "얼룩멜론을 넣어 만든 케이크입니다.",
+	
+	"PurpleCake": "마 케이크",
+	"Tooltip_PurpleCake": "마를 넣어 만든 케이크입니다.",
+	
+	"BladderCake": "부레고기 케이크",
+	"Tooltip_BladderCake": "부레고기를 넣어 만든 케이크입니다.",
+	
+	"BoomerangCake": "부메랑 케이크",
+	"Tooltip_BoomerangCake": "부메랑을 넣어 만든 케이크입니다.",
+	
+	"HoverfishCake": "부유고기 케이크",
+	"Tooltip_HoverfishCake": "부유고기를 넣어 만든 케이크입니다.",
+	
+	"ReginaldCake": "레지널드 케이크",
+	"Tooltip_ReginaldCake": "레지널드를 넣어 만든 케이크입니다.",
+	
+	"SpadefishCake": "삽머리고기 케이크",
+	"Tooltip_SpadefishCake": "삽머리고기를 넣어 만든 케이크입니다.",
+	
+	"GarryFishCake": "개리고기 케이크",
+	"Tooltip_GarryFishCake": "개리고기를 넣어 만든 케이크입니다.",
+	
+	"SteakDinner": "스테이크 정식",
+	"Tooltip_SteakDinner": "푸짐한 양의 스테이크 정식 요리입니다.",
+	
+	"StalkerSandwich": "스토커 샌드위치",
+	"Tooltip_StalkerSandwich": "스토커의 알과 이곳 현지의 다른 재료들을 사용하여 지구 음식처럼 보이게 만든 요리입니다.",
+	
+	"EggSaladsandwich": "에그 샐러드 샌드위치",
+	"Tooltip_EggSaladsandwich": "생물의 알과 이곳 현지의 다른 재료들을 사용하여 지구 음식처럼 보이게 만든 요리입니다.",
+	
+	"TamalePlate": "타말 세트",
+	"Tooltip_TamalePlate": "옥수수 반죽에 속재료를 채우고, 옥수수 껍질로 감싸 쪄낸 중미 전통 요리입니다.",
+	
+	"Quesadilla": "퀘사디아",
+	"Tooltip_Quesadilla": "또띠아에 치즈와 고기, 향신료 등을 채워 구워낸 멕시코 요리입니다.",
+	
+	"nigirisushi": "니기리 초밥",
+	"Tooltip_nigirisushi": "익히지 않은 신선한 피퍼 살을 얹어 만든 정통 초밥입니다.",
+	
+	"ricecake": "피퍼 오니기리",
+	"Tooltip_ricecake": "피퍼 살과 쌀을 뭉쳐 김으로 감싼 일본식 주먹밥입니다.",
+	
+	"sushiplate": "모듬 초밥",
+	"Tooltip_sushiplate": "피퍼 살과 쌀, 김으로 정성스럽게 차려낸 초밥 세트입니다.",
+	
+	"shishkabobs": "시시케밥",
+	"Tooltip_shishkabobs": "피퍼 살을 꽂고 향신료를 뿌린 꼬치 요리입니다.",
+	
+	"Beer": "맥주",
+	"Tooltip_Beer": "물과 여러 표본들을 섞어 발효시킨 음료입니다.",
+	
+	"Vodka": "마 보드카",
+	"Tooltip_Vodka": "마로 만든 보드카입니다.",
+	
+	"EnergyDrink": "레비아탄 급 에너지",
+	"Tooltip_EnergyDrink": "이 강력한 음료로 잃어버린 기운을 되찾으세요.",
+	
+	"Tea": "지식의 차",
+	"Tooltip_Tea": "이름에 속지 마세요. 뇌 기능을 향상시키는 성분이 전혀 들어있지 않습니다.",
+	
+	"IceCream": "아이스크림",
+	"Tooltip_IceCream": "우유, 설탕, 소금, 초콜릿으로 만든 시원하고 달콤한 아이스크림입니다.",
+	
+	"ChocolateCookie": "초콜릿 쿠키",
+	"Tooltip_ChocolateCookie": "밀가루, 물, 초콜릿을 사용하여 크게 구워낸 쿠키입니다."
+}
