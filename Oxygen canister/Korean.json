@@ -1,7 +1,7 @@
 {
     "OxygenCanister": "산소통",
     "Oxygen Canister": "산소통",
-    "Tooltip_OxygenCanister": "뇌 산호 샘플로부터 추출하여 제작한 재사용 가능한 산소통",
+    "Tooltip_OxygenCanister": "뇌산호 샘플로부터 추출하여 제작한 재사용 가능한 산소통",
     "DoubleOxygenCanister": "이중 산소통",
     "Double Oxygen Canister": "이중 산소통",
     "Tooltip_DoubleOxygenCanister": "재충전 시 천천히 충전되는 이중 산소통.",
@@ -14,4 +14,5 @@
     "DepletedCanister": "빈 산소통",
     "Empty Canister": "빈 산소통",
     "Tooltip_DepletedCanister": "산소가 소진된 산소통."
+
 }
