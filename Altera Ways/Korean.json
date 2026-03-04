@@ -66,7 +66,7 @@
   "Tooltip_PurpleStalkSeed": "자색멋쟁이풀 씨앗입니다.",
   "RedBasketPlantSeed": "붉은 요람 씨앗",
   "Tooltip_RedBasketPlantSeed": "빛을 내는 붉은 요람 씨앗입니다. 영양가는 높지만 제대로 요리하기 전에는 먹을 수 없습니다.",
-  "ShellGrassSeed": "숨이껍데기 씨앗",
+  "ShellGrassSeed": "가시나팔꽃 씨앗",
   "Tooltip_ShellGrassSeed": "잎이 매우 맵습니다. 요리에 사용할 수 있습니다.",
   "SpottedLeavesPlantSeed": "점무늬 소리쟁이 씨앗",
   "Tooltip_SpottedLeavesPlantSeed": "점무늬 소리쟁이 씨앗입니다.",
@@ -75,4 +75,5 @@
 
   "SodiumBenzoate": "안식향산나트륨",
   "Tooltip_SodiumBenzoate": "C₆H₅COONa. 안식향산염 방부제입니다. 식품 가공용으로 사용됩니다."
+
 }
